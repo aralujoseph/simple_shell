@@ -149,6 +149,6 @@ Simple shell 1.0 +
 
 CONTRIBUTORS
 
-Busola Atinsola
+``` Busola Atinsola ```
 
-Joseph Chiagozie Aralu
+``` Joseph Chiagozie Aralu ```
