@@ -147,7 +147,7 @@ Simple shell 1.0 +
 
 * In this mode, the shell should not print a prompt and should not read from stdin
 
-CONTRIBUTORS
+## CONTRIBUTORS
 
 ``` Busola Atinsola ```
 
